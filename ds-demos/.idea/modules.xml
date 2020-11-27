@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-maps/1-maps.iml" filepath="$PROJECT_DIR$/1-maps/1-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-sets/2-sets.iml" filepath="$PROJECT_DIR$/2-sets/2-sets.iml" />
+    </modules>
+  </component>
+</project>
